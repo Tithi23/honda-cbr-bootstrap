@@ -1,0 +1,30 @@
+.bg-color-info{
+    background: #264653;
+}
+.bg-button{
+    background: #E76F51;
+}
+.img-bike {
+    /* filter: grayscale(100%); */
+    filter: grayscale(50%);
+    }
+.listing-box:hover .img-bike {
+        filter: none;
+ } 
+.color-client {
+    color: #E76F51;
+} 
+.fa-star{
+    color: #E76F51;
+}
+.short-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.panda-bg-info{
+    background-color: rosybrown;
+}
+.btn-buy-now{
+    background: #E76F51;
+}
